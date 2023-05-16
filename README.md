@@ -1,2 +1,7 @@
 # classicsSLAM
 此项目主要做为个人学习经典slam算法笔记
+#文件目录结构
+以hector slam为例
+classicsSlam/hector_slam/src中存放算法源码
+classicsSlam/hector_slam/readme.md为算法介绍
+classicsSlam/hector_slam/codeLearningNotes中存放该算法的学习笔记
